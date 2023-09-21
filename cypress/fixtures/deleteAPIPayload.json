@@ -1,0 +1,20 @@
+{
+  "deleteAPIPayloadGlobal": {
+    "selectOptions": [
+      {
+        "name": "campaign_id",
+        "operator": "IN",
+        "value": ["GLOBAL"]
+      }
+    ]
+  },
+  "deleteAPIPayloadAut": {
+    "selectOptions": [
+        {
+          "name": "campaign_id",
+          "operator": "IN",
+          "value": ["2281"]
+        }
+    ]
+  }
+}

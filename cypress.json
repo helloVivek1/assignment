@@ -1,0 +1,9 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "baseUrl":"https://admin.convoso.com/login",
+    "deleteDataAPI":"https://admin.convoso.com/dnc/search-delete",
+    "creds":{
+        "userName":"admin.auto.assignment@cluster15.ss",
+        "password":"dzJZMmVSQU5iZA=="
+    }
+}
